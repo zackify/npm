@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:8.11.4
 
 LABEL version="2.0.0"
 LABEL repository="http://github.com/actions/npm"
